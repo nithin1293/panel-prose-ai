@@ -5,3 +5,9 @@ verify_jwt = false
 
 [functions.generate-comic-image]
 verify_jwt = false
+
+[functions.generate-comic-element]
+verify_jwt = false
+
+[functions.generate-facial-expressions]
+verify_jwt = false
