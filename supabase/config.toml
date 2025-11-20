@@ -1,0 +1,7 @@
+project_id = "xehggegjpholprrjqtjo"
+
+[functions.generate-comic-story]
+verify_jwt = false
+
+[functions.generate-comic-image]
+verify_jwt = false
